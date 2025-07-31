@@ -1,7 +1,7 @@
 # Modern Portfolio Website
 
 A responsive portfolio website with modern UI and animations, built with HTML, CSS, and JavaScript.
-
+Website Link :https://bobfolio-personal-portfolio.netlify.app/
 ## Features
 
 - Responsive design that works on all devices
@@ -67,12 +67,6 @@ A responsive portfolio website with modern UI and animations, built with HTML, C
 3. Netlify will automatically detect the configuration in `netlify.toml`
 4. Your site will be deployed and available at a Netlify URL
 
-#### Vercel Deployment
-
-1. Create an account on [Vercel](https://vercel.com/)
-2. Connect your GitHub repository or upload the project files directly
-3. Vercel will automatically detect the configuration in `vercel.json`
-4. Your site will be deployed and available at a Vercel URL
 
 ## Customization
 
