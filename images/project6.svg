@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="300" fill="#f5f5f5" />
+  
+  <!-- Restaurant Menu App Illustration -->
+  <!-- Tablet Device -->
+  <rect x="100" y="50" width="200" height="200" rx="10" fill="#333" />
+  <rect x="110" y="60" width="180" height="180" rx="5" fill="#f9f9f9" />
+  
+  <!-- App Header -->
+  <rect x="110" y="60" width="180" height="40" fill="#6c63ff" />
+  <rect x="125" y="75" width="100" height="10" rx="5" fill="white" opacity="0.8" />
+  <circle cx="260" cy="80" r="10" fill="rgba(255,255,255,0.2)" />
+  <path d="M255 80 L265 80 M260 75 L260 85" stroke="white" stroke-width="1.5" />
+  
+  <!-- Menu Categories -->
+  <rect x="120" y="110" width="160" height="30" rx="5" fill="white" stroke="#eee" stroke-width="1" />
+  <circle cx="135" cy="125" r="10" fill="#f50057" opacity="0.7" />
+  <rect x="150" y="120" width="60" height="10" rx="2" fill="#333" />
+  <path d="M265 120 L275 125 L265 130" fill="none" stroke="#999" stroke-width="1.5" />
+  
+  <rect x="120" y="150" width="160" height="30" rx="5" fill="white" stroke="#eee" stroke-width="1" />
+  <circle cx="135" cy="165" r="10" fill="#FFC107" opacity="0.7" />
+  <rect x="150" y="160" width="70" height="10" rx="2" fill="#333" />
+  <path d="M265 160 L275 165 L265 170" fill="none" stroke="#999" stroke-width="1.5" />
+  
+  <rect x="120" y="190" width="160" height="30" rx="5" fill="white" stroke="#eee" stroke-width="1" />
+  <circle cx="135" cy="205" r="10" fill="#4CAF50" opacity="0.7" />
+  <rect x="150" y="200" width="50" height="10" rx="2" fill="#333" />
+  <path d="M265 200 L275 205 L265 210" fill="none" stroke="#999" stroke-width="1.5" />
+  
+  <!-- Food Items -->
+  <rect x="40" y="100" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <circle cx="60" cy="120" r="15" fill="#f0f0f0" />
+  <path d="M55 120 Q60 115 65 120 M55 125 Q60 130 65 125" fill="none" stroke="#f50057" stroke-width="1.5" />
+  
+  <rect x="40" y="150" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <circle cx="60" cy="170" r="15" fill="#f0f0f0" />
+  <path d="M50 170 L70 170 M60 160 L60 180" fill="none" stroke="#FFC107" stroke-width="1.5" />
+  
+  <rect x="40" y="200" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <circle cx="60" cy="220" r="15" fill="#f0f0f0" />
+  <path d="M50 220 L70 220 M50 215 L70 215 M50 225 L70 225" fill="none" stroke="#4CAF50" stroke-width="1.5" />
+  
+  <!-- Menu Items -->
+  <rect x="320" y="100" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <rect x="325" y="105" width="30" height="20" rx="2" fill="#f0f0f0" />
+  <rect x="325" y="130" width="20" height="5" rx="2" fill="#333" />
+  
+  <rect x="320" y="150" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <rect x="325" y="155" width="30" height="20" rx="2" fill="#f0f0f0" />
+  <rect x="325" y="180" width="20" height="5" rx="2" fill="#333" />
+  
+  <rect x="320" y="200" width="40" height="40" rx="5" fill="white" stroke="#ddd" stroke-width="1" />
+  <rect x="325" y="205" width="30" height="20" rx="2" fill="#f0f0f0" />
+  <rect x="325" y="230" width="20" height="5" rx="2" fill="#333" />
+  
+  <!-- Decorative Food Icons -->
+  <circle cx="30" cy="30" r="15" fill="#6c63ff" opacity="0.2" />
+  <path d="M25 30 Q30 25 35 30 M25 35 Q30 40 35 35" fill="none" stroke="white" stroke-width="2" />
+  
+  <circle cx="370" cy="30" r="15" fill="#f50057" opacity="0.2" />
+  <circle cx="370" cy="30" r="5" fill="none" stroke="white" stroke-width="2" />
+  <path d="M370 35 L370 45" stroke="white" stroke-width="2" />
+  
+  <circle cx="30" cy="270" r="15" fill="#f50057" opacity="0.2" />
+  <path d="M25 270 L35 270 M25 265 L35 265 M25 275 L35 275" stroke="white" stroke-width="2" />
+  
+  <circle cx="370" cy="270" r="15" fill="#6c63ff" opacity="0.2" />
+  <path d="M365 265 L375 275 M375 265 L365 275" stroke="white" stroke-width="2" />
+</svg>

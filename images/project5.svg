@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- Background -->
+  <rect x="0" y="0" width="400" height="300" fill="#f5f5f5" />
+  
+  <!-- Fitness Tracker App Illustration -->
+  <!-- Smartwatch -->
+  <rect x="150" y="70" width="100" height="160" rx="20" fill="#333" />
+  <rect x="160" y="80" width="80" height="140" rx="10" fill="#222" />
+  
+  <!-- Watch Screen -->
+  <rect x="165" y="85" width="70" height="130" rx="5" fill="#6c63ff" />
+  
+  <!-- Watch Band -->
+  <path d="M150 110 L130 110 L130 190 L150 190" fill="#444" />
+  <path d="M250 110 L270 110 L270 190 L250 190" fill="#444" />
+  
+  <!-- Fitness UI Elements -->
+  <!-- Header -->
+  <rect x="165" y="85" width="70" height="20" fill="#5a57e5" />
+  <rect x="175" y="90" width="30" height="10" rx="5" fill="white" opacity="0.8" />
+  <circle cx="225" cy="95" r="5" fill="white" opacity="0.8" />
+  
+  <!-- Heart Rate Monitor -->
+  <rect x="175" y="115" width="50" height="25" rx="5" fill="rgba(255,255,255,0.1)" />
+  <text x="180" y="130" font-family="Arial" font-size="12" fill="white">♥ 75</text>
+  <path d="M210 125 L215 120 L220 130 L225 115" stroke="#f50057" stroke-width="1.5" fill="none" />
+  
+  <!-- Steps Counter -->
+  <rect x="175" y="150" width="50" height="25" rx="5" fill="rgba(255,255,255,0.1)" />
+  <text x="180" y="165" font-family="Arial" font-size="10" fill="white">8,543</text>
+  <path d="M220 165 L225 160" stroke="white" stroke-width="1" />
+  <path d="M225 160 L230 165" stroke="white" stroke-width="1" />
+  
+  <!-- Calories -->
+  <rect x="175" y="185" width="50" height="25" rx="5" fill="rgba(255,255,255,0.1)" />
+  <text x="180" y="200" font-family="Arial" font-size="10" fill="white">320</text>
+  <circle cx="220" cy="197" r="5" fill="none" stroke="white" stroke-width="1" />
+  <path d="M220 192 L220 202" stroke="white" stroke-width="1" />
+  
+  <!-- Phone App -->
+  <rect x="270" y="100" width="80" height="160" rx="10" fill="white" stroke="#ddd" stroke-width="2" />
+  
+  <!-- Phone Screen -->
+  <rect x="275" y="105" width="70" height="150" rx="5" fill="#f9f9f9" />
+  
+  <!-- App Header -->
+  <rect x="275" y="105" width="70" height="20" fill="#6c63ff" />
+  <rect x="285" y="110" width="30" height="10" rx="5" fill="white" opacity="0.8" />
+  
+  <!-- App Content -->
+  <!-- Activity Graph -->
+  <rect x="280" y="135" width="60" height="30" rx="3" fill="#f0f0f0" />
+  <path d="M285 155 L290 150 L295 160 L300 145 L305 155 L310 140 L315 150 L320 145 L325 155 L330 140 L335 150" stroke="#6c63ff" stroke-width="1.5" fill="none" />
+  
+  <!-- Activity Stats -->
+  <rect x="280" y="175" width="25" height="25" rx="3" fill="#f0f0f0" />
+  <path d="M285 190 L290 185 L295 195" stroke="#6c63ff" stroke-width="1.5" fill="none" />
+  
+  <rect x="315" y="175" width="25" height="25" rx="3" fill="#f0f0f0" />
+  <circle cx="327.5" cy="187.5" r="5" fill="none" stroke="#f50057" stroke-width="1.5" />
+  
+  <rect x="280" y="210" width="60" height="10" rx="3" fill="#f0f0f0" />
+  <rect x="280" y="225" width="60" height="10" rx="3" fill="#f0f0f0" />
+  
+  <!-- Fitness Icons -->
+  <circle cx="70" cy="100" r="15" fill="#6c63ff" opacity="0.3" />
+  <path d="M65 100 L75 100 M70 95 L70 105" stroke="white" stroke-width="2" />
+  
+  <circle cx="70" cy="150" r="15" fill="#f50057" opacity="0.3" />
+  <path d="M65 150 Q70 145 75 150 Q70 155 65 150" stroke="white" stroke-width="2" fill="none" />
+  
+  <circle cx="70" cy="200" r="15" fill="#FFC107" opacity="0.3" />
+  <path d="M65 200 L75 200 M65 195 L75 195 M65 205 L75 205" stroke="white" stroke-width="2" />
+  
+  <!-- Decorative Elements -->
+  <circle cx="30" cy="30" r="15" fill="#6c63ff" opacity="0.2" />
+  <circle cx="370" cy="30" r="15" fill="#f50057" opacity="0.2" />
+  <circle cx="30" cy="270" r="15" fill="#f50057" opacity="0.2" />
+  <circle cx="370" cy="270" r="15" fill="#6c63ff" opacity="0.2" />
+</svg>
